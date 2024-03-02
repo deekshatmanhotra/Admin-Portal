@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Student Registration </title>
+    <link rel="stylesheet" href="addstudent.css">
+   </head>
+<body>
+  <div class="wrapper">
+    <h2>Student Registration</h2>
+    <form action= "addstudent.jsp">
+    <div class="input-box">
+      	<label for="id">Student Id</label><br>
+        <input type="text" placeholder="Enter student ID" name = "id" required>
+     </div>
+      <div class="input-box">
+      	<label for="Name">Name</label><br>
+        <input type="text" placeholder="Enter student name" name = "name" required>
+      </div>
+      <div class="input-box">
+      	<label for="number">Number</label><br>
+        <input type="text" placeholder="Enter student Mobile number" name = "number" required>
+      </div>
+      <div class="input-box">
+      	<label for="email">Email</label><br>
+        <input type="text" placeholder="Enter student email" name = "email" required>
+      </div>
+      <div class="input-box">
+      	<label for="dob">Dob</label><br>
+        <input type="date" placeholder="Enter student Dob" name = "dob" required>
+      </div>
+      
+      	<label for="course">Course</label><br>
+        <input type="checkbox" name="course" value="Java">Java<br>
+        <input type="checkbox" name="course" value="Python">Python<br>
+        <input type="checkbox" name="course" value="MERN">MERN<br>
+        <input type="checkbox" name="course" value="C++">C++<br>
+      
+      <div class="input-box button">
+        <input type="Submit" value="Register Now">
+      </div>
+    </form>
+  </div>
+
+</body>
+</html>
