@@ -5,7 +5,7 @@ Welcome to the Admin Portal project repository! This project is a comprehensive 
 ### Key Features:
 - **User-Friendly Interface:** Designed with HTML and CSS to ensure an intuitive and visually appealing user experience.
 - **Dynamic Functionality:** Implemented using Java and JSP to enable dynamic content generation and seamless interaction.
-- **Database Integration:** Utilizes SQL for database management, ensuring data storage, retrieval, and manipulation functionalities.
+- **Database Integration:** Utilizes MySQL for database management, ensuring data storage, retrieval, and manipulation functionalities.
 
 ### Project Structure:
 - **HTML & CSS:** Contains the front-end components responsible for the visual layout and styling of the portal.
@@ -24,6 +24,9 @@ To run the Admin Portal locally:
 2. Import the project files.
 3. Configure the database connection settings in the project.
 4. Deploy the application on your local server.
+
+### Sample Screenshot:
+![Screenshot (29)](https://github.com/deekshatmanhotra/Admin-Portal/assets/160055819/e8279654-ca28-4db1-a5c3-5913a5cea33b)
 
 ---
 
