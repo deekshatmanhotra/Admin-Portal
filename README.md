@@ -25,7 +25,11 @@ To run the Admin Portal locally:
 3. Configure the database connection settings in the project.
 4. Deploy the application on your local server.
 
-### Sample Screenshot:
+### Sample Screenshot 1:
+![Screenshot (33)](https://github.com/deekshatmanhotra/Admin-Portal/assets/160055819/10c3f3d4-60ea-47c3-8595-233f96dae951)<br>
+<br>
+<br>
+### Sample Screenshot 2:
 ![Screenshot (29)](https://github.com/deekshatmanhotra/Admin-Portal/assets/160055819/e8279654-ca28-4db1-a5c3-5913a5cea33b)
 
 ---
